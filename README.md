@@ -72,7 +72,6 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+Alan Souza Lima
+email: alan.lima123@hotmail.com
 
